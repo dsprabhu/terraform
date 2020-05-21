@@ -1,8 +1,8 @@
 variable "key" {
-  default = "AKIAXFCL2776ESGH5BEI"
+  default = " "
 }
 variable "password" {
-  default = "5kedEScu0KbTd7v3PesMTUxVWqPPWahB3Ps6Vld9"
+  default = " "
 }
 variable "place" {
   default = "us-east-1"
